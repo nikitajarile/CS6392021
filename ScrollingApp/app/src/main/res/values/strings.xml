@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScrollingApp</string>
+    <string name="article_title">Aliens Must Be Out There</string>
+    <string name="article_subtitle"><b>Why aren’t we looking for them?</b></string>
+    <string name="article_text">    The sun is not special. I know that’s a churlish thing to say about everyone’s favorite celestial body, our planet’s blazing engine and eternal clock, giver of light, life and spectacular Instagram backdrops. Awesome as it is, though, the sun is still a pretty <b><i>ordinary star(https://www.space.com/37479-sun-ordinary-star-after-all.html)</i></b>, one of an estimated 100 billion to 400 billion in the Milky Way galaxy alone. And the Milky Way is itself just one galaxy among hundreds of billions or perhaps trillions in the observable universe.\n
+    Then there’s Earth, a lovely place to raise a species but, as planets go, perhaps as unusual as a Starbucks in a strip mall. Billions of the Milky Way’s stars could be orbited by planets with similarly ideal conditions to support life. Across all of space, there may be quintillions or a sextillion potentially habitable planets — which is more than the estimated grains of sand on all of Earth’s beaches.\n
+
+        So isn’t it hubris to assume that we’re the only life around? Since Nicolaus Copernicus posited nearly 500 years ago that Earth is not at the center of the universe, much of what humanity has learned about the cosmos has confirmed our insignificant ordinariness. We live aboard Carl Sagan’s <b><i>pale blue dot(https://www.theatlantic.com/science/archive/2020/02/nasa-pale-blue-dot-voyager/606529/)</i></b>, “a mote of dust suspended in a sunbeam.” In all the vastness of space and time, then, doesn’t it seem likely, maybe even obvious, that there exist other ordinary beings on other insignificant motes?\n
+
+        You might respond with the physicist <b><i><u>Enrico Fermi’s famous paradox:</u></i></b> If life is so common, why haven’t we seen it?\n
+    Now, in a dazzling new book(https://www.hmhbooks.com/shop/books/Extraterrestrial/9780358274551), <b><i><u>“Extraterrestrial: The First Sign of Intelligent Life Beyond Earth,” </u></i></b>the astrophysicist Avi Loeb offers a forceful rejoinder to Fermi. Loeb, a professor at Harvard, argues that the absence of evidence regarding life elsewhere is not evidence of its absence. What if the reason we haven’t come across life beyond Earth is the same reason I can never find my keys when I’m in a hurry — not because they don’t exist but because I did a slapdash job looking for them?\n
+
+    “The search for extraterrestrial life has never been more than an oddity to the vast majority of scientists,” Loeb writes. To “them, it is a subject worthy of, at best, glancing interest and at worst, outright derision.”\n
+
+    That attitude may be changing. In the past few years there has been a flurry of new interest in the search for aliens. Tech billionaires are funding novel efforts to scan the heavens for evidence of life, and after decades of giving the field short shrift, NASA recently joined the search.\n
+    Still, Loeb argues, we are not looking hard enough. Other areas of physics, especially abstruse mathematical concepts like supersymmetry, are showered with funding and academic respect, while one of the most profound questions humanity has ever pondered — Are we alone? — lingers largely on the sidelines.</string>
+    <string name="add_comment">Add Comment</string>
+</resources>

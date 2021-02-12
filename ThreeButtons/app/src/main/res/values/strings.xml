@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Three Buttons</string>
+    <string name="button_increment">+</string>
+    <string name="button_zero">zero</string>
+    <string name="button_decrement">-</string>
+    <string name="text_zero">0</string>
+</resources>
