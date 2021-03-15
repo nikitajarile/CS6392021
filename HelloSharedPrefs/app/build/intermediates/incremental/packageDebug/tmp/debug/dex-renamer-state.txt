@@ -1,0 +1,4 @@
+#Mon Mar 15 18:39:20 EDT 2021
+base.0=/Users/nikki/Documents/FirstProject/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

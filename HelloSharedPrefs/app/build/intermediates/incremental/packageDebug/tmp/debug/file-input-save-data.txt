@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Mar 13 22:53:57 EST 2021
+0.baseType=DIRECTORY
+0.base=/Users/nikki/Documents/FirstProject/HelloSharedPrefs/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
