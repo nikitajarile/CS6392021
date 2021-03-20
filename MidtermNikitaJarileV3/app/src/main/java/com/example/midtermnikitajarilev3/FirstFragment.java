@@ -48,13 +48,7 @@ public class FirstFragment extends Fragment {
                 Intent intent = new Intent(getContext(),ResultActivity.class);
                 intent.putExtra("result",currencyInDollars);
                 startActivity(intent);
-                /*bundle.putDouble("Result",distanceInMiles);
-                secondFragment.setArguments(bundle);
-                getActivity().getSupportFragmentManager().beginTransaction().add(R.id.FirstFragment, secondFragment, secondFragment.getClass().getName())
-                        .addToBackStack(null)
-                        .commit();
-                NavHostFragment.findNavController(FirstFragment.this)
-                        .navigate(R.id.action_FirstFragment_to_SecondFragment);*/
+                
             }
         });
 
