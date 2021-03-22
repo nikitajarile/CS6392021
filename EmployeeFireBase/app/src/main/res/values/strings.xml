@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmployeeFireBase</string>
+    <string name="strFirstName">First Name</string>
+    <string name="strLastName">Last Name</string>
+    <string name="strAddEmployee">ADD EMPLOYEE</string>
+    <string name="strEmployeeList"><u>LIST OF EMPLOYEES</u></string>
+    <string name="strSubmit">SUBMIT</string>
+</resources>
